@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'Shrift' ;
+    src: url('./rust-regular-142644\ \(1\).ttf');
+}
+.WER{
+    font-family: 'Shrift';
+    background-color: aqua;
+    color: hotpink;
+    width: 230px;
+    background-image: none;
+}
+@font-face{
+    font-family:'tyu';
+    src: url('./cabana.ttf');
+}
+.RET{
+    background-color: black;
+    color: yellow;
+    font-family:'tyu';
+}
+@font-face{
+    font-family: 'POL';
+    src: url('./teddy-bear.ttf');
+}
+.fgh{
+    color: teal;
+    background-color: orangered;
+    font-family: 'POL';
+}
